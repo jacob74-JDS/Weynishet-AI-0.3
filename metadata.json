@@ -1,0 +1,7 @@
+{
+  "name": "Weynishet AI Assistant",
+  "description": "An AI assistant with voice and text communication, specializing in trading, information technology, and digital marketing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
